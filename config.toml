@@ -1,0 +1,4 @@
+baseURL = "http://blog.smihir.com/"
+languageCode = "en-us"
+title = "Mihir Shete"
+theme = "blank"
